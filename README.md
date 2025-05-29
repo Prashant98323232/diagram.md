@@ -1,4 +1,4 @@
-# Project Diagrams
+# CRM Project Flowchart
 
 ## Diagram 1: CRM Implementation Flowchart
 
